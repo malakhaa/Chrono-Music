@@ -1,0 +1,6 @@
+{
+  "name": "Chrono Music",
+  "description": "High-fidelity audiophile music player with custom playlists, synced lyrics, modular EQ & DSP, USB DAC & Bluetooth Hi-Res modes, multi-room shared playback, voice search, accessibility modes, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

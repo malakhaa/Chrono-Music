@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chrono Music</string>
+    <string name="search_placeholder">Search tracks, artists, Hi-Res specs, or speak…</string>
+    <string name="cd_voice_search">Voice command search</string>
+    <string name="cd_play">Play track</string>
+    <string name="cd_pause">Pause playback</string>
+    <string name="cd_next">Next track</string>
+    <string name="cd_previous">Previous track</string>
+    <string name="cd_shuffle">Toggle shuffle</string>
+    <string name="cd_repeat">Cycle repeat mode</string>
+    <string name="cd_favorite">Toggle favorite</string>
+    <string name="cd_share">Share track or session</string>
+    <string name="cd_import_audio">Import local audio files</string>
+</resources>
